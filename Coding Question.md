@@ -36,8 +36,8 @@
 ## 3. Identify the problem in the following code block and correct it.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="news3.png">
-  <source media="(prefers-color-scheme: light)" srcset="news3.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="news3.png">
+  <source media="(prefers-color-scheme: dark)" srcset="fix%20error%20in%20code.png">
+  <source media="(prefers-color-scheme: light)" srcset="fix%20error%20in%20code.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="fix%20error%20in%20code.png">
 </picture>
 
