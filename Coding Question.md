@@ -33,4 +33,11 @@
 </picture>
 
 
-## 3. Write a function to call the below mentioned API and parse the data. Make sure the function return an object of News item, which contains News article Title, News article Content, Date of News Published, Banner Image of News article.
+## 3. Identify the problem in the following code block and correct it.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="news3.png">
+  <source media="(prefers-color-scheme: light)" srcset="news3.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="news3.png">
+</picture>
+
